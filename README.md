@@ -2,7 +2,7 @@
 <h4 align="left">A Fresh Graduate from Computer Science, I'm excited to channel my skills into creating innovative solutions that bridge the gap between technology and real-world challenges</h4>
 <p><img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="glgl0x00" width=40%/></p>
 
-- 🔭 I’m currently working as Part-Time instructor on [DECI](https://deci.gov.eg/).
+- 🔭 I’m currently working as Part-Time instructor on [DECI](https://deci.gov.eg/) , and as Freelancer Python Developer.
 
 - 🌱 I’m currently learning **Machine learning, AI, Tensorflow**.
   
@@ -27,11 +27,14 @@
   - 👁️ **Computer Vision**: [UDJAT_Security_Detection](https://github.com/GLGL0x00/Security_Detection)
   - 🌷 [Flower-image_Classifier](https://github.com/GLGL0x00/Flower-image_Classifier) - using Pytorch.
   - 🗣️ **NLP** [Word_tokenize_lemmatize](https://github.com/GLGL0x00/Word_tokenize_lemmatize)
+  - 🚲 [Bike Sharing Demand Prediction](https://github.com/GLGL0x00/Bike-Sharing-Demand) - using Autogloun
+- ### 💸 Freelancing Tasks
+  - 🛠️ [WebScrapping](https://github.com/GLGL0x00/Freelancing/tree/main/Web%20scrapping) - Using Beautifulsoup
+  - 🧽 [jsonDataCleaning](https://github.com/GLGL0x00/Freelancing/tree/main/Data_Manipulation)
 - ### 🌱 Projects I've Contributed To
   - <a href="https://github.com/unifyai/ivy" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/logos/ivy_logo_only.svg" alt="ivy" width="25" height="25"/> </a> [unify ai](https://github.com/unifyai/ivy)
 - ### ➕ Other
     - 🐍 [Python scripts](https://github.com/GLGL0x00/Grad_Project_Scripts)
-    - 🛠️ [WebScrapping](https://github.com/GLGL0x00/Freelancing/tree/main/Web%20scrapping) - Using Beautifulsoup
     - 🌐 [Network_Projects](https://github.com/GLGL0x00/Network_Projects) - CCNA&CCNP Protocols
  
 
