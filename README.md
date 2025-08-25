@@ -1,7 +1,16 @@
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=GLGL0x00&txt=Python%20Developer%20and%20Machine%20Learning%20Engineer"></p>
-<h4 align="left">A Fresh Graduate from Computer Science, I'm excited to channel my skills into creating innovative solutions that bridge the gap between technology and real-world challenges</h4>
-<p><img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="glgl0x00" width=40%/></p>
 
+## About
+<h4 align="left">I’m a jack of many trades, driven by curiosity and a mission to master AI and machine learning.
+
+My journey began with a security detection project in university, and since then, I’ve explored everything from computer vision and anomaly detection to deploying full ML pipelines on AWS. I’ve built with PyTorch, TensorFlow, and cloud tools, but what truly defines me is how I approach problems: "Give me a challenge, and I’ll figure it out."
+
+Whether it’s building a classifier, automating a workflow with Selenium, tutoring students, or prompt engineering, or editing videos to tell a better story, I thrive on learning fast and delivering solutions that work.
+
+I’m not afraid to dive into unfamiliar territory. I believe being adaptable and resourceful is just as important as technical expertise. That mindset is what fuels my growth, and I’m always looking for opportunities to apply it, collaborate with others, and build things that matter.
+</h4>
+
+----
 - 🔭 I’m currently working as Part-Time instructor on [DECI](https://deci.gov.eg/) , and as Freelancer Python Developer.
 
 - 🌱 I’m currently learning **Machine learning, AI, Tensorflow**.
